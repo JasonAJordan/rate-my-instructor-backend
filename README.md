@@ -1,24 +1,13 @@
-# README
+# Rate my Instructor Backend, 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hello This is an app made my Jason Jordan and Connor Mulholland for our flatiron Rails Backend, JavaScript Frontend project. 
 
-Things you may want to cover:
+This app view reviews on their instructors, or give their feedback by giving a rating or making a comment. Users can edit /delete comments on the instructors or add a new instructor for review if he/she isn't in the system. 
 
-* Ruby version
+App is modeled with a javascript frontend, ruby on rails backend, and postgreSQL database. App features one page with all custom CSS. 
 
-* System dependencies
+## How to start on a Local Machine
 
-* Configuration
+Open Your back end in terminal and run "rails db:create", "rails db:migrate", "rails db:seed"
+Then on the front end run a liveServer on the index.html file. 
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
